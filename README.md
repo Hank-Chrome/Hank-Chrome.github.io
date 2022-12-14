@@ -17,4 +17,4 @@
 4：clash节点
 clash,最好的windows翻墙客户端，官网：https://github.com/Fndroid/clash_for_windows_pkg/releases 汉化补丁：https://github.com/BoyceLig/Clash_Chinese_Patch/releases
 汉化教程：https://uzbox.com/tech/clash.html 使用教程：https://www.cnblogs.com/fdw630/p/16450148.html
-节点订阅：https://xn--94q57lcvpw50b.com/api/v1/client/subscribe?token=e43c283ff5800b604f980c291a21e9c2
+节点订阅：https://owo.ecydy.com/link/0CeosoJYh3B205H7?clash=1
