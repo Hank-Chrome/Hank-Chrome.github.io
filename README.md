@@ -12,7 +12,7 @@
 
 
 3.无界
-我以被封，不知道你们能不能用，镜像：https://github.com/wujieliulan/forum
+挂了
 
 4：clash节点
 clash,最好的windows翻墙客户端，官网：https://github.com/Fndroid/clash_for_windows_pkg/releases 汉化补丁：https://github.com/BoyceLig/Clash_Chinese_Patch/releases
